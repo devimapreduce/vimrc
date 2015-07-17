@@ -3,8 +3,10 @@ cd ~/.vim_mine
 echo 'set runtimepath+=~/.vim_mine
 
 source ~/.vim_mine/vimrcs/basic.vim
-source ~/.vim_mine/vimrcs/filetypes.vim
 source ~/.vim_mine/vimrcs/plugins_config.vim
+source ~/.vim_mine/vimrcs/ctrlp.vim/plugin/ctrlp.vim
+
+"source ~/.vim_mine/vimrcs/filetypes.vim
 "source ~/.vim_mine/vimrcs/extended.vim
 
 try
